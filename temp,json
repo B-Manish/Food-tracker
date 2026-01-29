@@ -1,0 +1,163 @@
+[
+    {
+      "food_name": "Chia seeds",
+      "basis": "per_100g",
+      "macros": {
+        "calories_kcal": 486,
+        "protein_g": 16.5,
+        "fat_g": 30.7,
+        "fiber_g": 34.4
+      },
+      "vitamins": {
+        "vitamin_b12_mcg": 0,
+        "vitamin_d_mcg": 0,
+        "vitamin_c_mg": 1.6,
+        "folate_b9_mcg": 49
+      },
+      "minerals": {
+        "iron_mg": 7.7,
+        "calcium_mg": 631,
+        "magnesium_mg": 335,
+        "potassium_mg": 407,
+        "zinc_mg": 4.6
+      }
+    },
+    {
+      "food_name": "Pumpkin seeds",
+      "basis": "per_100g",
+      "macros": {
+        "calories_kcal": 559,
+        "protein_g": 30.2,
+        "fat_g": 49.0,
+        "fiber_g": 6.0
+      },
+      "vitamins": {
+        "vitamin_b12_mcg": 0,
+        "vitamin_d_mcg": 0,
+        "vitamin_c_mg": 1.9,
+        "folate_b9_mcg": 58
+      },
+      "minerals": {
+        "iron_mg": 8.8,
+        "calcium_mg": 46,
+        "magnesium_mg": 592,
+        "potassium_mg": 809,
+        "zinc_mg": 7.8
+      }
+    },
+    {
+      "food_name": "Almonds",
+      "basis": "per_100g",
+      "macros": {
+        "calories_kcal": 579,
+        "protein_g": 21.2,
+        "fat_g": 49.9,
+        "fiber_g": 12.5
+      },
+      "vitamins": {
+        "vitamin_b12_mcg": 0,
+        "vitamin_d_mcg": 0,
+        "vitamin_c_mg": 0,
+        "folate_b9_mcg": 44
+      },
+      "minerals": {
+        "iron_mg": 3.7,
+        "calcium_mg": 269,
+        "magnesium_mg": 270,
+        "potassium_mg": 733,
+        "zinc_mg": 3.1
+      }
+    },
+    {
+      "food_name": "Oats, rolled",
+      "basis": "per_100g",
+      "macros": {
+        "calories_kcal": 389,
+        "protein_g": 16.9,
+        "fat_g": 6.9,
+        "fiber_g": 10.6
+      },
+      "vitamins": {
+        "vitamin_b12_mcg": 0,
+        "vitamin_d_mcg": 0,
+        "vitamin_c_mg": 0,
+        "folate_b9_mcg": 56
+      },
+      "minerals": {
+        "iron_mg": 4.7,
+        "calcium_mg": 54,
+        "magnesium_mg": 177,
+        "potassium_mg": 429,
+        "zinc_mg": 3.9
+      }
+    },
+    {
+      "food_name": "Milk, toned",
+      "basis": "per_100g",
+      "macros": {
+        "calories_kcal": 58,
+        "protein_g": 3.1,
+        "fat_g": 3.0,
+        "fiber_g": 0
+      },
+      "vitamins": {
+        "vitamin_b12_mcg": 0.5,
+        "vitamin_d_mcg": 0.1,
+        "vitamin_c_mg": 0,
+        "folate_b9_mcg": 5
+      },
+      "minerals": {
+        "iron_mg": 0.0,
+        "calcium_mg": 120,
+        "magnesium_mg": 11,
+        "potassium_mg": 150,
+        "zinc_mg": 0.4
+      }
+    },
+    {
+      "food_name": "Curd (yogurt)",
+      "basis": "per_100g",
+      "macros": {
+        "calories_kcal": 61,
+        "protein_g": 3.5,
+        "fat_g": 3.3,
+        "fiber_g": 0
+      },
+      "vitamins": {
+        "vitamin_b12_mcg": 0.4,
+        "vitamin_d_mcg": 0.1,
+        "vitamin_c_mg": 0.5,
+        "folate_b9_mcg": 7
+      },
+      "minerals": {
+        "iron_mg": 0.1,
+        "calcium_mg": 121,
+        "magnesium_mg": 12,
+        "potassium_mg": 155,
+        "zinc_mg": 0.6
+      }
+    },
+    {
+      "food_name": "Greek yogurt (plain)",
+      "basis": "per_100g",
+      "macros": {
+        "calories_kcal": 59,
+        "protein_g": 10.3,
+        "fat_g": 0.4,
+        "fiber_g": 0
+      },
+      "vitamins": {
+        "vitamin_b12_mcg": 0.8,
+        "vitamin_d_mcg": 0.1,
+        "vitamin_c_mg": 0,
+        "folate_b9_mcg": 7
+      },
+      "minerals": {
+        "iron_mg": 0.1,
+        "calcium_mg": 110,
+        "magnesium_mg": 11,
+        "potassium_mg": 141,
+        "zinc_mg": 0.6
+      }
+    }
+  ]  

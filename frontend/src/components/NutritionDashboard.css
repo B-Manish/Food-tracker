@@ -1,0 +1,178 @@
+.nutrition-dashboard {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.nutrition-dashboard h2 {
+  margin: 0 0 24px 0;
+  color: #2c3e50;
+  font-size: 24px;
+}
+
+.nutrition-dashboard h3 {
+  margin: 0 0 16px 0;
+  color: #2c3e50;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.macros-section {
+  margin-bottom: 32px;
+}
+
+.macros-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.macro-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 16px;
+  border-left: 4px solid;
+}
+
+.macro-card.calories {
+  border-left-color: #ff6b6b;
+}
+
+.macro-card.protein {
+  border-left-color: #4ecdc4;
+}
+
+.macro-card.fat {
+  border-left-color: #ffe66d;
+}
+
+.macro-card.fiber {
+  border-left-color: #95e1d3;
+}
+
+.macro-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.macro-label {
+  font-weight: 600;
+  color: #2c3e50;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.macro-value {
+  font-size: 14px;
+  color: #666;
+  font-weight: 500;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: #e0e0e0;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+
+.progress-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+
+.progress-fill.calories {
+  background: linear-gradient(90deg, #ff6b6b, #ff8787);
+}
+
+.progress-fill.protein {
+  background: linear-gradient(90deg, #4ecdc4, #6edcd4);
+}
+
+.progress-fill.fat {
+  background: linear-gradient(90deg, #ffe66d, #ffed8a);
+}
+
+.progress-fill.fiber {
+  background: linear-gradient(90deg, #95e1d3, #b0e8dd);
+}
+
+.macro-percentage {
+  font-size: 12px;
+  color: #666;
+  text-align: right;
+}
+
+.vitamins-section,
+.minerals-section {
+  margin-bottom: 32px;
+}
+
+.vitamins-grid,
+.minerals-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.vitamin-card,
+.mineral-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 16px;
+  border-left: 4px solid;
+}
+
+.vitamin-card {
+  border-left-color: #9b59b6;
+}
+
+.mineral-card {
+  border-left-color: #3498db;
+}
+
+.vitamin-header,
+.mineral-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.vitamin-label,
+.mineral-label {
+  font-weight: 600;
+  color: #2c3e50;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.vitamin-value,
+.mineral-value {
+  font-size: 14px;
+  color: #666;
+  font-weight: 500;
+}
+
+.progress-fill.vitamin {
+  background: linear-gradient(90deg, #9b59b6, #bb7dd9);
+}
+
+.progress-fill.mineral {
+  background: linear-gradient(90deg, #3498db, #5dade2);
+}
+
+.vitamin-percentage,
+.mineral-percentage {
+  font-size: 12px;
+  color: #666;
+  text-align: right;
+}
+

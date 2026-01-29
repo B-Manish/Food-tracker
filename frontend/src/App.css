@@ -1,0 +1,44 @@
+.app {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.app-header {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 24px 0;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.app-header h1 {
+  margin: 0 0 8px 0;
+  color: #2c3e50;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.app-subtitle {
+  margin: 0;
+  color: #666;
+  font-size: 16px;
+}
+
+.app-main {
+  padding: 0 20px 40px;
+}
+
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .app-header h1 {
+    font-size: 28px;
+  }
+  
+  .app-main {
+    padding: 0 16px 32px;
+  }
+}
